@@ -1,4 +1,4 @@
-# ml4face-detection
+# ML4Face-detection
 A walkthorugh and tutorial covering all common techniques used for face detection
 Link to youtube playlist for walkthrough and results - https://www.youtube.com/playlist?list=PLbMqOoYQ3Mxw2cwnHX6IoG8DvYcShAozI
 
